@@ -62,8 +62,6 @@ DB 등의 외부 infra 에 접근하기 위한 기능을 구현하는 것으로 
 
 ## API Specification
 
-![img](./readme/API.jpeg)
-
 https://documenter.getpostman.com/view/20455344/UVyysYA2
 
 ## Feature Specification
